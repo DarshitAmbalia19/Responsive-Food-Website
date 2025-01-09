@@ -28,3 +28,9 @@ This is a responsive and visually appealing food website designed using HTML and
 ## Developer
 
 - [Darshit Ambalia](https://github.com/DarshitAmbalia19)
+
+
+
+## for preview
+
+- click hear -> [responsive food website](https://darshitambalia19.github.io/Responsive-Food-Website/)
